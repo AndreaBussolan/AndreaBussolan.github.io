@@ -1,5 +1,5 @@
 ---
 title: MultiPhysio-HRC
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 ---
 {% include_relative README.md %}
